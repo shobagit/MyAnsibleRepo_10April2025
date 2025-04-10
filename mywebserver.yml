@@ -1,0 +1,8 @@
+---
+- hosts: all
+  become: yes
+  tasks:
+    -name: install apache web servers
+      apt:
+       name: apche2
+       state: present

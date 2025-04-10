@@ -1,0 +1,17 @@
+---
+- student:name
+  students:
+     -name: John
+      phone: 97979797
+      address: hyd
+
+      -name: spensor
+       phone: 454545
+       address: hyd
+
+       -name: Jags
+        phone: 232323
+        address: hyd
+
+        
+      
